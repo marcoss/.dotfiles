@@ -1,0 +1,21 @@
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
+
+export CLICOLOR=1
+export TERM=xterm-256color
+
+# MOTD
+
+# echo " .::       .::                                         
+# .: .::   .:::                                         
+#.:: .:: . .::   .::    .: .:::   .:::   .::     .:::: 
+#.::  .::  .:: .::  .::  .::    .::    .::  .:: .::    
+#.::   .:  .::.::   .::  .::   .::    .::    .::  .::: 
+#.::       .::.::   .::  .::    .::    .::  .::     .::
+#.::       .::  .:: .:::.:::      .:::   .::    .:: .::
+#" | lolcat
+
+#fortune -s | cowsay | lolcat
+#neofetch
+
+alias pi='ssh -p 7777 marcos@marcospi.local'
