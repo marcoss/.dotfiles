@@ -24,7 +24,6 @@ Plug 'embark-theme/vim', { 'as': 'embark', 'branch': 'main' }
 Plug 'bluz71/vim-nightfly-guicolors'
 Plug 'romainl/Apprentice'
 Plug 'ghifarit53/tokyonight-vim'
-Plug 'katawful/kat.nvim'
 
 " Initialize plugin system
 call plug#end()
