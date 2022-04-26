@@ -8,14 +8,18 @@ export TERM=xterm-256color
 
 # echo " .::       .::                                         
 # .: .::   .:::                                         
-#.:: .:: . .::   .::    .: .:::   .:::   .::     .:::: 
-#.::  .::  .:: .::  .::  .::    .::    .::  .:: .::    
-#.::   .:  .::.::   .::  .::   .::    .::    .::  .::: 
-#.::       .::.::   .::  .::    .::    .::  .::     .::
-#.::       .::  .:: .:::.:::      .:::   .::    .:: .::
-#" | lolcat
+# .:: .:: . .::   .::    .: .:::   .:::   .::     .:::: 
+# .::  .::  .:: .::  .::  .::    .::    .::  .:: .::    
+# .::   .:  .::.::   .::  .::   .::    .::    .::  .::: 
+# .::       .::.::   .::  .::    .::    .::  .::     .::
+# .::       .::  .:: .:::.:::      .:::   .::    .:: .::
+# " | lolcat
 
-#fortune -s | cowsay | lolcat
-#neofetch
+# fortune -s | cowsay | lolcat
+# neofetch
 
 alias pi='ssh -p 7777 marcos@marcospi.local'
+
+# Run to prevent iterm2 hanging
+# sudo xcodebuild -license accept
+

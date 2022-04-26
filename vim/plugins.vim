@@ -34,7 +34,7 @@ call plug#end()
 " colorscheme hybrid
 " colorscheme nightfly
 " colorscheme mac_classic
-"colorscheme Tomorrow-Night-Blue
+" colorscheme Tomorrow-Night-Blue
 " colorscheme nightflight
 colorscheme tokyonight
 
